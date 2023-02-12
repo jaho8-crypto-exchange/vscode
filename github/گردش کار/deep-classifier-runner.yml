@@ -1,4 +1,4 @@
-name: "Deep Classifier: Runner"
+Jaho8chain: "Deep Classifier: Runner"
 on:
   schedule:
     - cron: 0 * * * *
